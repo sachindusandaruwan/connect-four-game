@@ -1,5 +1,5 @@
 package lk.ijse.dep.service;
 
-public enum piece {
+public enum Piece {
     GREEN,BLUE,EMPTY;
 }
